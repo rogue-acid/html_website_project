@@ -1,0 +1,38 @@
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+  padding-left: 37%;
+}
+
+
+p {
+  color: black;
+  font-family: courier;
+  font-size: 160%;
+  padding-left: 300px;
+  padding-top: 100px;
+}
+
+
+body {
+    background-color: lightblue;
+	padding-left: 70px;
+}
+
+
+img {
+	width: 400px;
+	height: 300px;
+}
+
+
+#left_image {
+	padding-left: 350px;
+	padding-top: 20px;
+}
+
+
+#right_image {
+	padding-left: 400px;
+}
